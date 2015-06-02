@@ -3,7 +3,7 @@ require 'spec_helper'
 describe 'Testing in the browser', :js => true do
   context 'for jasmine 2.0' do
     before do
-      Jasminerice.jasmine_version = '2_0'
+      Jasminerice.jasmine_version = '2_3'
     end
 
     it 'will respond with the expected results' do

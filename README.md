@@ -57,7 +57,7 @@ By default Jasminerice will use Jasmine 1.3.  To select Jasmine 2.0 simply add t
 
 ```ruby
 Jasminerice.setup do |config|
-    config.jasmine_version = '2_0'
+    config.jasmine_version = '2_3'
 end
 ```
 

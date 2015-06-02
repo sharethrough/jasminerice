@@ -13,8 +13,8 @@ if defined?(Jasminerice) == 'constant'
     # Specify a path where your specs can be found. Defaults to 'spec'
     #config.spec_path = 'spec'
 
-    # Specify the version of Jasmine you want to use (1_3 or 2_0 are supported with 1_3 being the default)
-    #config.jasmine_version = '2_0'
+    # Specify the version of Jasmine you want to use (1_3 or 2_3 are supported with 1_3 being the default)
+    #config.jasmine_version = '2_3'
 
     # Specify a path where your fixutures can be found. Defaults to 'spec/javascripts/fixtures'
     #config.fixture_path = 'spec/javascripts/fixtures'
