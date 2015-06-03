@@ -16,7 +16,7 @@ module Jasminerice
   @@fixture_path = 'spec/javascripts/fixtures'
 
   mattr_accessor :jasmine_version
-  @@jasmine_version = '1_3'
+  @@jasmine_version = '2_3'
 
   # Default way to setup Jasminerice. Run rails generate jasminerice:install to create
   # a fresh initializer with all configuration values.
